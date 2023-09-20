@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](http://url/to/img.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![alt text](http://url/to/img.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB )
 
 <!--
 **lucas-franc/lucas-franc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
