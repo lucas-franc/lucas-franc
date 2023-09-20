@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![alt text]( https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB )
+![alt text]( https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white )
+![alt text]( https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E )
+![alt text]( https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D )
 
 <!--
 **lucas-franc/lucas-franc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
