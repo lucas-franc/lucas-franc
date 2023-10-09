@@ -13,9 +13,6 @@
   <a href="mailto:lucas.fnev@gmail.com">
     <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
   </a>
-  <a href="https://stackoverflow.com/users/12339658/tallguyjenks">
-    <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
-  </a>
 </p>
 
 
