@@ -17,5 +17,5 @@
     <img src="https://img.icons8.com/metro/26/689d6a/stackoverflow.png"/>
   </a>
 </p>
-<p align="center"><img src="https://wakatime.com/share/@lucasnev/b1341bea-a731-4d3c-9996-9ebbcef4ef6c.svg" height="400"/></p>
+
 
